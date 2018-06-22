@@ -126,7 +126,7 @@
 		<key>NvidiaSingle</key>
 		<false/>
 		<key>RadeonDeInit</key>
-		<true/>
+		<false/>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
