@@ -219,8 +219,10 @@
 				</data>
 			</dict>
 			<dict>
+				<key>Comment</key>
+				<string>TRIM Enabler</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				QVBQTEUgU1NEAA==
