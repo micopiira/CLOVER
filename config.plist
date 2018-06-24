@@ -125,6 +125,8 @@
 			<key>NVidia</key>
 			<false/>
 		</dict>
+		<key>LoadVBios</key>
+		<true/>
 		<key>NvidiaSingle</key>
 		<false/>
 		<key>RadeonDeInit</key>
