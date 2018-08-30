@@ -125,8 +125,8 @@
 		</dict>
 		<key>NvidiaSingle</key>
 		<false/>
-		<key>ig-platform-id</key>
-		<string>0166000A</string>
+		<key>RadeonDeInit</key>
+		<false/>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
